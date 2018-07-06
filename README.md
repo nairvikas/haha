@@ -1,3 +1,2 @@
 # haha
-just
-Just a file to include cod
+Just a file to include code for sublime text editor
